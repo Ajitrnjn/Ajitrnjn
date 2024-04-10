@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexrnjn
+- 👋 Hi, I’m @Ajitrnjn
 - 👀 I’m interested in Verilog  
 - 🌱 I’m currently learning Verilog & Python
 - 💞️ I’m looking to collaborate on verilog project.

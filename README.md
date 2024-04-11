@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajitrnjn
 - 👀 I’m interested in Verilog  
 - 🌱 I’m currently learning Verilog & Python
-- 💞️ I’m looking to collaborate on verilog project.
+- 💞️ I’m looking to collaborate on Verilog & Python project.
 - 📫 How to reach me ...
 
 <!---
